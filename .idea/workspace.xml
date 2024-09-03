@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78387669-d4a4-4536-bcbb-02684eb4c363" name="Changes" comment="Hit box Collisions&#10;HUD&#10;Score" />
+    <list default="true" id="78387669-d4a4-4536-bcbb-02684eb4c363" name="Changes" comment="Rebase with feature_level">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/Const.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/Const.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/EntityFactory.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/EntityFactory.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/Game.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/Game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/Level.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/Level.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +22,9 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="Git.Rebase.Settings">
+    <option name="NEW_BASE" value="feature_level" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -120,7 +129,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725363400450</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Rebase with feature_level">
+      <option name="closed" value="true" />
+      <created>1725364530837</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1725364530837</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -139,6 +156,7 @@
     <MESSAGE value="Creating main loop&#10;Connecting Menu and Game Classes" />
     <MESSAGE value="Creating menu interactions&#10;Creating ABC class&#10;Creating Factory&#10;Level 1 Bg implementation: parallax" />
     <MESSAGE value="Hit box Collisions&#10;HUD&#10;Score" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hit box Collisions&#10;HUD&#10;Score" />
+    <MESSAGE value="Rebase with feature_level" />
+    <option name="LAST_COMMIT_MESSAGE" value="Rebase with feature_level" />
   </component>
 </project>
