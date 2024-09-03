@@ -4,20 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78387669-d4a4-4536-bcbb-02684eb4c363" name="Changes" comment="Creating menu interactions&#10;Creating ABC class&#10;Creating Factory&#10;Level 1 Bg implementation: parallax">
-      <change afterPath="$PROJECT_DIR$/asset/Player1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/EnemyShot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/EntityMediator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/PlayerShot.py" afterDir="false" />
+    <list default="true" id="78387669-d4a4-4536-bcbb-02684eb4c363" name="Changes" comment="Hit box Collisions&#10;HUD&#10;Score">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/Background.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/Background.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/Const.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/Const.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/Enemy.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/Enemy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/Entity.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/Entity.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/EntityFactory.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/EntityFactory.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/Level.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/Level.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/Menu.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/Menu.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/Player.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/Player.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,7 +114,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725325952917</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Hit box Collisions&#10;HUD&#10;Score">
+      <option name="closed" value="true" />
+      <created>1725363400450</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1725363400450</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -144,6 +140,7 @@
     <MESSAGE value="Inicial commit" />
     <MESSAGE value="Creating main loop&#10;Connecting Menu and Game Classes" />
     <MESSAGE value="Creating menu interactions&#10;Creating ABC class&#10;Creating Factory&#10;Level 1 Bg implementation: parallax" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creating menu interactions&#10;Creating ABC class&#10;Creating Factory&#10;Level 1 Bg implementation: parallax" />
+    <MESSAGE value="Hit box Collisions&#10;HUD&#10;Score" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hit box Collisions&#10;HUD&#10;Score" />
   </component>
 </project>
